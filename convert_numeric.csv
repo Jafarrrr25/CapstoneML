@@ -1,4 +1,4 @@
-status,duration,credit_history,purpose,amount,savings,employment_duration,installment_rate,gender,marital_status,le_other_debtors,present_residence,property,age,other_installment_plans,housing,number_credits,job,people_liable,telephone,foreign_worker,credit_risk
+status,duration,credit_history,purpose,amount,savings,employment_duration,installment_rate,gender,marital_status,other_debtors,present_residence,property,age,other_installment_plans,housing,number_credits,job,people_liable,telephone,foreign_worker,credit_risk
 0,6,1,3,1169,4,1,4,1,3,2,4,2,67,1,1,2,1,1,1,1,1
 2,48,3,3,5951,0,2,2,0,1,2,2,2,22,1,1,1,1,1,0,1,0
 3,12,1,9,2096,0,3,2,1,3,2,3,2,49,1,1,1,3,2,0,1,1
