@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 # Ignore virtual environment
 env/
 venv/
+=======
+# Ignore virtual environment
+env/
+venv/
+>>>>>>> 718c7df5b55393aa132570d27343f319ffa30065
