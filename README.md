@@ -10,7 +10,7 @@ Hello everyone!. Here is our repository Machine Learning path Team for Bangkit 2
 |       Fajar Al Najiim       | M391D4KY2415 | Machine Learning |
 |   Josep Daniel Simatupang   | M391D4KY2654 | Machine Learning |
 |      Zaky Irsyad Rais       | C214D4KY0273 | Cloud Computing  |
-|       Hanun Salsabila       |   C0121278   | Cloud Computing  |
+|       Hanun Salsabila       |   	C183D4KX0956  | Cloud Computing  |
 | Ahmad Ryan Saffah Yartavick | A548D4NY4609 |     Android      |
 |       Ekasari Amalia        | A548D4NX4606 |     Android      |
 
