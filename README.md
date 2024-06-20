@@ -56,9 +56,8 @@ You can also test our API [Here](https://creditapp-64tbubeb5q-et.a.run.app/predi
 
 
 ## Navigation
-- ### [&nbsp;&nbsp;Android Mobile Development](https://github.com/DwiBagiaSantosa/C23-PS117/tree/android](https://github.com/tookxedo/CreditPredict)
-- ### [&nbsp;&nbsp;Cloud Computing](https://github.com/DwiBagiaSantosa/C23-PS117/tree/cloud](https://github.com/zakyirsyaad/creditapp)
-
+- ### [&nbsp;&nbsp;Android Mobile Development](https://github.com/tookxedo/CreditPredict)
+- ### [&nbsp;&nbsp;Cloud Computing](https://github.com/zakyirsyaad/creditapp)
 
 ## Project Update
 
