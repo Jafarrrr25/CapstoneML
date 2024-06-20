@@ -54,6 +54,12 @@ We already provide you all of the data set and NLP model, so you just need to ru
 
 You can also test our API [Here](https://creditapp-64tbubeb5q-et.a.run.app/predict)
 
+
+## Navigation
+- ### [&nbsp;&nbsp;Android Mobile Development](https://github.com/DwiBagiaSantosa/C23-PS117/tree/android](https://github.com/tookxedo/CreditPredict)
+- ### [&nbsp;&nbsp;Cloud Computing](https://github.com/DwiBagiaSantosa/C23-PS117/tree/cloud)](https://github.com/zakyirsyaad/creditapp)
+
+
 ## Project Update
 
 **TBD**
