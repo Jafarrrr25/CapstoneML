@@ -1,4 +1,4 @@
-# Bangkit 2024 Capstone Team : Credit (C241-PS483)
+# Bangkit 2024 Capstone Team : Credit Predict (C241-PS483)
 
 Hello everyone!. Here is our repository Machine Learning path Team for Bangkit 2024 Capstone project. Our team consist of 3 Machine Learning, 2 Android, and 2 Cloud Computing.
 
@@ -19,6 +19,8 @@ Hello everyone!. Here is our repository Machine Learning path Team for Bangkit 2
 We created a mobile application called **Credit Predict**.
 
 **Credit Predict** is an application to predict credit card applications by customers by inputting personal data, and various other certain data. With this application, everyone can check whether their personal data such as age, work history, and so on are eligible to be approved to get a credit card application or even rejected.
+
+
 
 ## Guidance for running our model on local
 
